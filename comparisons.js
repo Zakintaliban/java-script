@@ -1,4 +1,4 @@
-const nameA = "Alpha";
+const nameA = "Alfa";
 const nameB = "Beta";
 const nameCompared = nameA === nameB;
 
@@ -9,7 +9,7 @@ console.log(nameCompared);
 // Feel free to have some experiments with comparisons
 
 const ageA = 18;
-const ageB = 25;
+const ageB = 24;
 
 if (ageA > ageB) {
   console.log("...");
@@ -22,13 +22,13 @@ if (ageA > ageB) {
 // Feel free to have some experiments with comparisons
 
 const personA = {
-  name: "Alpha",
-  age: 20
+  name: "Alfa",
+  age: 18
 };
 
 const personB = {
   name: "Betty",
-  age: 30
+  age: 24
 };
 
 switch (personA.age > personB.age) {
